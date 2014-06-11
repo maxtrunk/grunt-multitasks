@@ -1,0 +1,49 @@
+{
+  "name": "gruntup",
+
+  "version": "0.0.1",
+
+  "description": "Boilerplate for frontend development using HTML5 Boilerplate, mobile first styles, JavaScript and LESS. Built using Grunt.",
+
+  "main": "Gruntfile.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:maxtrunk/grunt-multitasks.git"
+  },
+
+  "keywords": [
+    "HTML5",
+    "Boilerplate",
+    "LESS",
+    "Mobile"
+  ],
+
+  "author": "Tony Lee",
+
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/maxtrunk/grunt-multitasks/blob/master/LICENCE"
+    }
+  ],
+
+  "engines": {
+    "node": ">=0.10.0"
+  },  
+
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-less": "~0.5.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-htmlmin": "^0.3.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-concurrent":"^0.5.0",
+    "grunt-contrib-imagemin":"^0.7.1",
+    "grunt-concurrent":"^0.5.0"
+  }
+}
